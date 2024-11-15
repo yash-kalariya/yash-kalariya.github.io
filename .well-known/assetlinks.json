@@ -3,6 +3,6 @@
   "target": {
     "namespace": "android_app",
     "package_name": "com.bookandgo.houseofpadel",
-    "sha256_cert_fingerprints":["B3:B6:05:3B:8A:61:1C:36:1B:17:45:46:BC:51:58:8E:77:64:48:18:37:DC:CC:ED:52:25:21:63:61:7E:70:88"]
+    "sha256_cert_fingerprints":["B0:75:99:F8:A5:7A:29:ED:EC:D5:C4:93:D5:50:75:42:2A:75:15:30:7D:E8:A0:DA:49:CF:82:77:28:0F:C4:1C"]
   }
 }]
