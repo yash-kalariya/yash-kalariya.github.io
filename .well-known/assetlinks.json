@@ -2,7 +2,7 @@
   "relation": ["delegate_permission/common.handle_all_urls"],
   "target": {
     "namespace": "android_app",
-    "package_name": "com.padel.art",
-    "sha256_cert_fingerprints":["B0:75:99:F8:A5:7A:29:ED:EC:D5:C4:93:D5:50:75:42:2A:75:15:30:7D:E8:A0:DA:49:CF:82:77:28:0F:C4:1C"]
+    "package_name": "com.bookandgo.primepadel",
+    "sha256_cert_fingerprints":["1E:E0:27:27:3F:C3:33:D3:0A:86:B1:A5:6B:5F:11:3C:A5:BB:81:33:76:B6:97:A5:FC:21:2C:04:89:9A:B6:DD","E4:87:0B:A8:C1:55:11:05:8B:00:05:F4:B8:0A:BF:03:A9:F7:AF:D8:87:F3:34:FD:30:03:99:6F:76:8D:80:34"]
   }
 }]
